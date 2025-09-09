@@ -87,10 +87,10 @@ A = Programming Assignments, Q = Take-Home Quizzes (Honorlock)
 | Week 9 | 10/28 | Midterm | 
 | Week 10 | 11/4	|  College Holiday (Election Day) |
 | Week 11 | 11/11 |  Python Classes	| A, Q
-| Week 12 | 11/18 |  Unit Testing and Exception Handling | A, Midterm Presentation Slides
-| Week 13 | 11/25 | Coding Practices with AI | Q
-| Week 14 | 12/2	| Jupyter Notebook Presentation (Review)   | A, Q
-| Week 15 | 12/9	| Final Project Discussions | A, Q
+| Week 12 | 11/18 |  Unit Testing and Exception Handling | A
+| Week 13 | 11/25 | Coding Practices with AI | Q, Slides
+| Week 14 | 12/2	| Jupyter Notebook Presentation (Review)   |
+| Week 15 | 12/9	| Final Project Discussions |
 | Week 16 | 12/16	|  Final Project | Final Report
 
 ### Programming Assignments, Quizzes, the Midterm, and the Final Project
