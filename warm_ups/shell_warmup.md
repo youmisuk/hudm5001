@@ -15,7 +15,7 @@ The terminal is the “window” (more or less), while the shell is a program (o
 - Tab completion to get program and file names
 - Up/down arrows and `!` to repeat command
 
-- Note that mostly commands which are used in Bash can be used in PowerShell like `'rm'`, `'ls'`, `'cp'`, but it is not always the case. See [some examples](https://www.javatpoint.com/powershell-vs-bash-shell).
+- Note that mostly commands which are used in Bash can be used in PowerShell like `'rm'`, `'ls'`, `'cp'`, but it is not always the case. See [some examples](https://docs.devnursery.com/cheatsheets/00-00-shell-cheatsheet/).
 
 | Bash Command 	| Task 	| Quiz
 | ---	|---	| :---: 
@@ -68,4 +68,5 @@ Useful suggestions on file names
 - use ASCII characters only, no space, no `/`, no `\` (for Windows), no `-` for the first character.
 
 - R users: avoid dots. conventionally used for the file extension.
+
 
