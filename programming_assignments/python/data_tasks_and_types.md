@@ -39,7 +39,7 @@ Write a python script that contains your code and solutions for each task below.
 
 4. (1 PT) Build a list from the names in Table 2 and print it.
 
-5. (1 PT) Sort the list in ascending order and print it.
+5. (1 PT) Sort the list in ascending order and print it. You can find an appropriate function by typing a dot (.) after the object and using tab completion.
 
 6. (1 PT) Build a set from the names in Table 2 and print it.
 
