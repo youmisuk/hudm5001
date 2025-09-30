@@ -1,6 +1,6 @@
 ### Group Project: Browse Datasets
 
-Visit the UCI Machine Learning Dataset [Repo](https://archive.ics.uci.edu/ml/datasets.php)
+Visit the UCI Machine Learning Dataset [Repo](https://archive.ics.uci.edu/datasets/)
 
 Spend 10-15 mins looking at datasets.  
 
