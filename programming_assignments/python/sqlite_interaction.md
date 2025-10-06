@@ -1,5 +1,4 @@
 ### Programming Assignment: SQLite Interaction
-Last updated: Oct 8, 2024  
 
 **Instructions**  
 Follow the instructions below. Copy all questions, code, and output into a document and submit through Canvas.  
