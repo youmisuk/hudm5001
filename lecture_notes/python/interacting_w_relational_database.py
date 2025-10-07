@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Oct 8 09:27:05 2024
+Created on Tue Oct 6 09:27:05 2025
 
 @author: youmisuk
 """
@@ -25,10 +25,10 @@ Download SQLite here:
 https://www.sqlite.org/download.html
 
    Windows users will install:
-   sqlite-tools-win32-x86-3460100.zip
+   sqlite-tools-win-x64-3500400.zip
 
    Mac users will install:
-   sqlite-tools-osx-x86-3460100.zip
+   sqlite-tools-osx-x64-3500400.zip
 
 After install, launch terminal (Windows users use CMD)
 From terminal, cd to sqlite
