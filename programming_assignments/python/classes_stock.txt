@@ -2,7 +2,6 @@
 Defining and Working with a Stock Class
 
 Programming for Data Science
-Last Updated: March 27, 2023
 #######################################
 
 INSTRUCTIONS
